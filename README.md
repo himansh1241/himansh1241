@@ -1,6 +1,6 @@
 # Hi, I'm Himanshu 👋
 
-💻 MCA Student | Programmer
+💻 MCA Student | Programmer        
 🚀 Currently learning: DSA + Java  
 🎯 Goal: Crack top tech companies  
 
