@@ -21,17 +21,11 @@
 
 ### 🛠️ Tech Stack
 
-**Languages & Core:** Java, Python, SQL
+Languages & Core: Java, Python, SQL
 
-**Tools & Platforms**
-- Git
-- GitHub
-- Streamlit
+Tools & Platforms: Git, GitHub, Streamlit
 
-**ML / Data**
-- PyTorch
-- Pandas
-- NumPy
+ML / Data: PyTorch, Pandas, Numpy
 
 ---
 
@@ -47,9 +41,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himansh1241&theme=dark&hide_border=true" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himansh1241&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak Stats"/>
 </p>
-
 ---
 
 ### 🤝 Connect with Me
