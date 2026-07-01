@@ -44,7 +44,7 @@ ML / Data: PyTorch, Pandas, Numpy
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=himansh1241&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak Stats"/>
 </p>
 
----
+--- 
 
 <p align="center">
   <a href="https://linkedin.com/in/himanshuranjan1241" target="_blank">
